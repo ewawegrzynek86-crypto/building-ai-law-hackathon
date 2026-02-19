@@ -1,7 +1,9 @@
 # building-ai-law-hackathon
 Building AI course projects &amp; Legal Tech automation challenge. Exploring the bridge between AI models and real-world business value
-## 🚀 Upcoming Challenge: AI Consulting Hackathon (Feb 2025)
 
+## 🚀 Upcoming Challenge: AI Consulting Hackathon (Feb 2025)
+## 🎯 Project Objective
+The goal of this repository is to demonstrate the practical application of AI in the legal sector. I am focusing on reducing operational friction for law firms by implementing intelligent automation.
 I am currently preparing for an intensive, 72-hour individual hackathon organized by **Swans**. 
 
 ### The Mission:
