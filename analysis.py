@@ -6,7 +6,7 @@ def sigmoid(x):
 
 def calculate_node_a1():
     # Dane wejściowe (Input nodes)
-    inputs = [1.0, 1.0, 0.0]
+    inputs = [0.5, 0.5, 1.0]
     
     # Wagi dla węzła a1 (Weights)
     weights = [0.1, 0.4, 0.2]
