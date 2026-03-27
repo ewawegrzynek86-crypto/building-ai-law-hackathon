@@ -17,3 +17,4 @@ I am currently preparing for an intensive, 72-hour individual hackathon organize
 3. **Delivery:** Mastering the "Consultant Mindset" – focusing on ROI and efficiency rather than just code.
 
 *Stay tuned for the project submission after March 2nd!*
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](TWOJ_LINK_DO_COLAB)
